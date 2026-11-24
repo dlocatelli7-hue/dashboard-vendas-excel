@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas - Análise de Desempenho no Excel
+.# 📊 Dashboard de Vendas - Análise de Desempenho no Excel
 
 ## 📌 Visão Geral do Projeto
 Este projeto foi desenvolvido como parte de um desafio prático da DIO focado em análise e visualização de dados. O objetivo principal foi transformar dados brutos de vendas em um **Dashboard Interativo e Visual no Microsoft Excel**, proporcionando insights claros para tomada de decisão estratégica e acompanhamento de métricas de desempenho.
