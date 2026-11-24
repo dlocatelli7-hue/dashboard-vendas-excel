@@ -45,6 +45,3 @@ Este projeto foi desenvolvido como parte de um desafio prático da DIO focado em
 4. Utilize os botões de **Segmentação de Dados (Filtros)** para navegar e explorar os dados dinamicamente.
 
 
-Desenvolvido por **[Seu Nome Aqui]**.  
-- **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/)  
-- **GitHub:** [Seu Perfil do GitHub](https://github.com/)
